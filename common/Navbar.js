@@ -26,7 +26,7 @@ const Navbar = () => {
                                 <Link href="/facilities">Facilities</Link>
                             </li>
                             <li className={[style.nav_link, "nav-item"].join(" ")}>
-                                <Link href="/product">Products</Link>
+                                <Link href="/allProducts">Products</Link>
                             </li>
                             <li className={[style.nav_link, "nav-item"].join(" ")}>
                                 <Link href="/contact">Contact</Link>

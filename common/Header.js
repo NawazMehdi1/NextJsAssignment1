@@ -7,7 +7,7 @@ const Header = () => {
     return(
         <div className="row d-flex justify-content-center align-items-center">
             <Logo/>
-            <Head2/>
+            {/* <Head2/> */}
             <Head3/>
         </div>
     )
